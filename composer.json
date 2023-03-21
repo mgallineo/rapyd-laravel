@@ -12,7 +12,7 @@
     "require": {
         "laravelcollective/html": "^6.0.0",
         "intervention/image": "2.*",
-        "zofe/burp": "dev-master"
+        "mgallineo/burp": "dev-master"
     },
     "repositories": [
         {
