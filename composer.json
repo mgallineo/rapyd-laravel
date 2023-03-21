@@ -14,12 +14,6 @@
         "intervention/image": "2.*",
         "mgallineo/burp": "dev-master"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "git@github.com:mgallineo/burp.git"
-        }
-    ],
     "suggest": {
         "baum/baum": "Allows to use the DataTree widget"
     },
