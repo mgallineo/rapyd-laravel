@@ -11,7 +11,8 @@
     ],
     "require": {
         "laravelcollective/html": "^6.0.0",
-        "intervention/image": "2.*"
+        "intervention/image": "2.*",
+        "zofe/burp": "3.0.*"
     },
     "suggest": {
         "baum/baum": "Allows to use the DataTree widget"
