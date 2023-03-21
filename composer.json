@@ -12,8 +12,14 @@
     "require": {
         "laravelcollective/html": "^6.0.0",
         "intervention/image": "2.*",
-        "zofe/burp": "3.0.*"
+        "mgallineo/burp": "dev-master"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:mgallineo/burp.git"
+        }
+    ],
     "suggest": {
         "baum/baum": "Allows to use the DataTree widget"
     },
